@@ -90,3 +90,31 @@ Prepared for:
 Future Interns
 
 Prompt Engineering Internship
+## Prompt Engineering Workflow
+
+1. Understand the business requirements.
+2. Identify the target audience.
+3. Design structured prompts.
+4. Generate AI content.
+5. Refine prompts based on output quality.
+6. Review and organize the final website copy.
+7. Document the complete workflow in GitHub.
+
+---
+
+## Future Improvements
+
+- Multi-language website copy
+- SEO keyword optimization
+- AI-generated blog content
+- Social media captions
+- Email marketing content
+- Landing pages for promotions
+
+---
+
+## Conclusion
+
+This project demonstrates how Prompt Engineering can be applied to create professional website content for local businesses. By using structured prompts and refining them through multiple iterations, high-quality, website-ready copy was generated for Brew Haven Café.
+
+The project showcases practical Prompt Engineering skills, AI-assisted content creation, and business communication while providing reusable prompts that can be adapted for other local businesses.

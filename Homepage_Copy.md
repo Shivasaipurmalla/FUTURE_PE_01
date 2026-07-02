@@ -1,59 +1,57 @@
-# Brew Haven Café
+## Customer Testimonials
 
-## Fresh Coffee. Fresh Moments.
+★★★★★
 
-Experience handcrafted coffee, delicious bakery treats, and a cozy atmosphere where every visit feels like home.
+"The coffee is absolutely amazing and the atmosphere is perfect for studying."
 
-At Brew Haven Café, we believe every cup tells a story. Our carefully selected coffee beans, freshly baked snacks, and welcoming environment make us the perfect place to relax, work, or meet friends.
+– Rahul
 
-Whether you're starting your morning with an espresso, enjoying a peaceful afternoon with a latte, or grabbing a quick takeaway before work, Brew Haven Café serves every moment with passion and quality.
+★★★★★
 
----
+"Fresh pastries, friendly staff, and excellent service."
 
-## Why Choose Us?
+– Priya
 
-✔ Premium Coffee Beans
+★★★★★
 
-✔ Freshly Prepared Food
+"My favourite café in town."
 
-✔ Comfortable Seating
-
-✔ Free High-Speed Wi-Fi
-
-✔ Friendly Staff
-
-✔ Affordable Prices
+– Arjun
 
 ---
 
-## Our Promise
+## Frequently Asked Questions
 
-Every coffee is handcrafted by experienced baristas using freshly roasted beans to ensure the perfect taste in every sip.
+### Do you provide free Wi-Fi?
 
-We believe great coffee brings people together.
+Yes.
+
+### Do you offer takeaway?
+
+Yes.
+
+### Are vegetarian snacks available?
+
+Yes.
+
+### Do you accept online payments?
+
+Yes.
+
+### Is table booking available?
+
+Yes.
 
 ---
 
-## Customer Experience
+## Final Call To Action
 
-• Warm and welcoming ambience
+Your perfect coffee break starts here.
 
-• Comfortable workspace
+Visit Brew Haven Café today and experience handcrafted coffee, delicious food, and exceptional hospitality.
 
-• Delicious bakery items
+📞 Call Now
 
-• Fast takeaway service
+📍 Visit Today
 
-• Family-friendly environment
-
----
-
-## Visit Today
-
-Discover your new favorite coffee destination.
-
-Fresh coffee.
-Fresh food.
-Fresh memories.
-
-Welcome to Brew Haven Café.
+☕ Taste the Difference

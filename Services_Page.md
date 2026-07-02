@@ -1,0 +1,1 @@
+Specialty coffee, tea, bakery, breakfast, takeaway, Wi‑Fi.

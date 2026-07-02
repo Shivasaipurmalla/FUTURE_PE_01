@@ -1,0 +1,1 @@
+Prompt: Generate homepage, services and CTA for a local café.
